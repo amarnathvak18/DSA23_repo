@@ -1,3 +1,3 @@
 # DSA23_repo
-This is our GITHUB repository
-my changes 
+#A simple script to print numbers from 1-8 has stored in script.sh
+
